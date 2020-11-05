@@ -1,4 +1,2 @@
-PowerMod
-========
 
-power Mod
+
